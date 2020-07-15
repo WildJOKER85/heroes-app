@@ -1,5 +1,19 @@
-body{
+.background{
+    position: fixed;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
     background: url("https://i.pinimg.com/originals/a5/73/dc/a573dc083b6e25b842c8fdf18d3d8e51.png") no-repeat center center fixed;
     background-size: 100% 100vh;
 }
 
+.customContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.my{
+    margin-bottom: 20px;
+}

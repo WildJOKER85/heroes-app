@@ -1,4 +1,8 @@
 .block {
+    background: url("https://i.pinimg.com/originals/a5/73/dc/a573dc083b6e25b842c8fdf18d3d8e51.png") no-repeat center center fixed;
+    background-size: 100% 100vh;
+    width: 100%;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;

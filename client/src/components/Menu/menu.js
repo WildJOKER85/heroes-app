@@ -7,6 +7,7 @@ export const Menu = () => {
 
     return (
         <div>
+            <div className={s.container}></div>
             {Heroes.map((item, index) => (
                 <NavLink to={`/details/${index + 1}`} key={index} className={s.menu}>
                     <div className={s.icons}>
