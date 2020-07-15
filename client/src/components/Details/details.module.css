@@ -1,0 +1,36 @@
+.block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 80px;
+}
+
+.heroName {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    padding: 12px;
+    font-size: x-large;
+    margin: 0 50px 300px 0 ;
+}
+
+.icon {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    width: 300px;
+    height: 350px;
+    background-color: darkslategray;
+}
+
+.history {
+    border: 1px solid black;
+    width: 250px;
+    height: 350px;
+    background-color: deepskyblue;
+}
+
+
+
