@@ -1,4 +1,4 @@
-.background{
+.background {
     position: fixed;
     z-index: -1;
     width: 100vw;
@@ -8,12 +8,15 @@
     background-size: 100% 100vh;
 }
 
-.customContainer{
+.customContainer {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+
 }
-.my{
-    margin-bottom: 20px;
+
+.my {
+    margin-bottom: 10px;
 }
+

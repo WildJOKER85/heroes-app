@@ -2,6 +2,7 @@ export const Heroes = [
     {
         name: 'Рыцарь Роз',
         firstName: 'Джоан',
+        bgHeroes: "https://wegamers.176.com/upfile/image/4363/hXHAmKe6.jpg",
         icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/5/54/Rose_Knight.png/revision/latest?cb=20200308171157",
         img: "http://mobilelords.ru/upload/iblock/4cd/4cd30157bf033468a6eb330d45f73763.png",
         heroDetail: 'Мать Джоан умерла, когда та была совсем малышкой, а ее отец был вечно занят своими делами. Джоан мечтала ' +
@@ -13,7 +14,8 @@ export const Heroes = [
     {
         name: 'Следопыт',
         firstName: 'Бум-гильда',
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/c/c5/Tracker.png/revision/latest?cb=20190614004317",
+        bgHeroes: "https://cdn.ligadegamers.com/imagenes/6-tracker.jpg",
+        icon: "https://lh3.googleusercontent.com/proxy/qK-PkkhupFI0lop8A-UFh4i-Bd6D6AeFV8Ka3fNWDqb48YuObv3Vhbp1UfTZZNcF3qJoxBhra8KSdTRX1e6bR0l-KiQ36wOrcQ",
         img: "http://mobilelords.ru/upload/iblock/54c/54c3b0ace6c917e0cca31bb19fba353a.png",
         heroDetail: 'Бум-гильда верит, что гномы не только сильные, но еще и ловкие. Она сама смастерила себе легкую броню и ' +
             'арбалет, чтобы сочетать навыки воина и охотника. За упорство и горячий нрав Бум-гильда получила произвише "Следопыт".'
@@ -21,7 +23,8 @@ export const Heroes = [
     {
         name: 'Кузнец душ',
         firstName: 'Дрюмир',
-        icon: "https://lh3.googleusercontent.com/proxy/8nfdRkotaXw3Ca0v_DPpdtq0YvDmbJIxO0arFsvGGr6PcqyHd8NqeGW9pRuSP5udlGcBM8CN2REYaDdJJbCMy_Q0cjpC5FemHiiHrgplLHX56GWjJQ3Ou_T9FsOzbIKyqXl6TZTjx99bp64EgQ",
+        bgHeroes: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsEMyA1p7PFuaMId72SGPlhj1SlfoW69K8yQ&usqp=CAU",
+        icon: "https://www.lordsmobiletools.com/assets/soulforger.png",
         img: "http://mobilelords.ru/upload/iblock/189/189b31c405239ecae06d7e72cb3f646f.png",
         heroDetail: 'Дрюмиир обожает веселиться и мастерить из всякого ненужного хлама красивые артефакты. За это гномы прозвали' +
             'его "Кузнец душ". Несмотря на свои выдающиеся новыки, Дрюмир очень плохо оринтируется на местности. Он редко покидает ' +
@@ -31,6 +34,7 @@ export const Heroes = [
     {
         name: 'Посланник морей',
         firstName: 'Озерыб',
+        bgHeroes: "https://pbs.twimg.com/media/Cdy5NkiUsAA70XF.jpg:large",
         img: "http://mobilelords.ru/upload/iblock/e45/e4598dd57d77b7984686aff1cce3c8ee.png",
         icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/1/1e/Sea_Squire.png/revision/latest?cb=20200308051128",
         heroDetail: 'С годами водный народ приспособился к жизни и в воде, и на суше. У них с рождения ненасытный аппетит, они ' +

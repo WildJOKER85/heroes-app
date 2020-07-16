@@ -10,9 +10,10 @@ export const Details = props => {
 
     return (
         <div className={s.block}>
-            <NavLink to={'/test'}>
-                <button>Go to Test</button>
-            </NavLink>
+            <div className={s.container}>
+                <img src={heroHistory.bgHeroes} alt=""/>
+            </div>
+
             <div className={s.icon}>
                 <img src={heroHistory.icon} alt="" width={320} height={350}/>
             </div>
