@@ -2,7 +2,6 @@ export const Heroes = [
     {
         name: 'Рыцарь Роз',
         firstName: 'Джоан',
-        bgHeroes: "https://wegamers.176.com/upfile/image/4363/hXHAmKe6.jpg",
         icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/5/54/Rose_Knight.png/revision/latest?cb=20200308171157",
         img: "http://mobilelords.ru/upload/iblock/4cd/4cd30157bf033468a6eb330d45f73763.png",
         heroDetail: 'Мать Джоан умерла, когда та была совсем малышкой, а ее отец был вечно занят своими делами. Джоан мечтала ' +
@@ -14,8 +13,7 @@ export const Heroes = [
     {
         name: 'Следопыт',
         firstName: 'Бум-гильда',
-        bgHeroes: "https://cdn.ligadegamers.com/imagenes/6-tracker.jpg",
-        icon: "https://lh3.googleusercontent.com/proxy/qK-PkkhupFI0lop8A-UFh4i-Bd6D6AeFV8Ka3fNWDqb48YuObv3Vhbp1UfTZZNcF3qJoxBhra8KSdTRX1e6bR0l-KiQ36wOrcQ",
+        icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWho9SHk2gDTUTszkd07d14OrIQs8EJZEVCg&usqp=CAU",
         img: "http://mobilelords.ru/upload/iblock/54c/54c3b0ace6c917e0cca31bb19fba353a.png",
         heroDetail: 'Бум-гильда верит, что гномы не только сильные, но еще и ловкие. Она сама смастерила себе легкую броню и ' +
             'арбалет, чтобы сочетать навыки воина и охотника. За упорство и горячий нрав Бум-гильда получила произвише "Следопыт".'
@@ -23,7 +21,6 @@ export const Heroes = [
     {
         name: 'Кузнец душ',
         firstName: 'Дрюмир',
-        bgHeroes: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsEMyA1p7PFuaMId72SGPlhj1SlfoW69K8yQ&usqp=CAU",
         icon: "https://www.lordsmobiletools.com/assets/soulforger.png",
         img: "http://mobilelords.ru/upload/iblock/189/189b31c405239ecae06d7e72cb3f646f.png",
         heroDetail: 'Дрюмиир обожает веселиться и мастерить из всякого ненужного хлама красивые артефакты. За это гномы прозвали' +
@@ -34,7 +31,6 @@ export const Heroes = [
     {
         name: 'Посланник морей',
         firstName: 'Озерыб',
-        bgHeroes: "https://pbs.twimg.com/media/Cdy5NkiUsAA70XF.jpg:large",
         img: "http://mobilelords.ru/upload/iblock/e45/e4598dd57d77b7984686aff1cce3c8ee.png",
         icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/1/1e/Sea_Squire.png/revision/latest?cb=20200308051128",
         heroDetail: 'С годами водный народ приспособился к жизни и в воде, и на суше. У них с рождения ненасытный аппетит, они ' +
@@ -54,7 +50,7 @@ export const Heroes = [
         name: 'Убийца демонов',
         firstName: 'Саван',
         img: "http://mobilelords.ru/upload/iblock/05f/05fc4e8e7cf7dae0363801c7a3a793bb.png",
-        icon: "https://lh3.googleusercontent.com/proxy/5VeG7fE9PbMdw9KwBABzSeE0ke5reaOK-ZvzIq3U5F4WfEFEVHJOnR8DpTs6CvGkcJnOZ-53QGnI966ITeTSWdqeLtoAMSgwDu5EruAIhXGuihqZpGIB9OaDW48H8tPCNUm6Bo8ReHvsWejx-MLI",
+        icon: "https://lh3.googleusercontent.com/proxy/hlACjsYHUSq1jErQWO_VIlnQttMkTcKG_EfjjyEL-f7_QQFvCByeJC0Yq2e0z-adQCKjqwSxOe8ogcaEvacgVVhXYiTVJfW0qTXUrOp0jF8daxcUSUZWHPIq_vz2_shAodQ4eQ",
         heroDetail: 'Саван - младший сын семейства Хейлор. Его жизнь круто изменилась, когда Саван влюбился в Мальтину. Эта ' +
             'эльфийка сумела разжечь доброту в суровом сердце воина. Но счасьте их длилось недолго: ненавистники Савана сожгли ' +
             'его Мальтину на костре. Снедаемый горем, Саван преклонил колени перед Вечностью, и взамен получил силы, чтобы' +
@@ -81,7 +77,7 @@ export const Heroes = [
         name: 'Пройдоха',
         firstName: 'Гнилоуст',
         img: "http://mobilelords.ru/upload/iblock/5e8/5e8c6611b2ff02dcc6c6486af770c679.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/b/bd/Trickster.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/504/window-height/503?cb=20200308051433",
+        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/b/bd/Trickster.png/revision/latest/top-crop/width/360/height/450?cb=20200308051433",
         heroDetail: 'Почти все свое время Гнилоуст проводит в трактире, завлекая простаков своими баснями и выманивая у них' +
             'деньги. За это его и призвали "Пройдоха".'
     },
@@ -89,7 +85,7 @@ export const Heroes = [
         name: 'Алая Молния',
         firstName: 'Грета',
         img: "http://mobilelords.ru/upload/iblock/f82/f8227a7b49c7f5f73c58a977d1180977.png",
-        icon: "https://lh3.googleusercontent.com/proxy/MXsoKbqQdE0oKQuZC8AsO8cU0Ieh-sjI8jVZyyPj-DUMINwMW1FOogYnMbN-4yBBXajTenDRDM-hVO6BSeSUuRTlNgMKOM0LZVrGVzo3Ro6iur3m9xespgh19d3wR0WZCSbaPX1M9N_2FOtNQ5ao",
+        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/c/c1/Scarlet_Bolt.png/revision/latest?cb=20200308044835",
         heroDetail: 'Грета выросла в джунглях, где действует один закон: приспосабливайся или умри. Грета научилась всегда быть' +
             'первой - важный новык для того, кого смерть поджидает на каждом шагу. Ее движения отточены, чтобы убивать врагов' +
             'быстро, эффективно и без всякой жалости. Грета любит слизывать кровь со своего клинка, и этим приводит в ужасе' +
@@ -118,7 +114,7 @@ export const Heroes = [
         name: 'Тень',
         firstName: 'Блинк',
         img: "http://mobilelords.ru/upload/iblock/f14/f141f6a7c7628c257340721759ea88c3.png",
-        icon: "https://lh3.googleusercontent.com/proxy/KKmMfieRUkccmoqhHL36JXAXFct2SxbrChflIc_6wK12aIm3iKE1q_T6OIijcOAp_xy_mYsmU6aoo-WRMjEedGpS8BtZVgPiwkEqzr5xRQX7-2Z5qx4m5HW4TtCmwQLeoT_LIA",
+        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/d/dc/Shade.png/revision/latest/top-crop/width/360/height/450?cb=20200308171214",
         heroDetail: 'Во тьме ночной Тень проскользнет незаметно мимо любого стража. Прокравшись в комнату жертвы, ' +
             'полоснет ей по горлу кинжалом и через мгновение снова растворится в ночи. Блинк - умелый и безжалостный ' +
             'убийца, не проваливший ни одной миссии. Никакая сила не способна помешать Блинку совершить намеченное.'
@@ -127,7 +123,7 @@ export const Heroes = [
         name: 'Рыцарь смерти',
         firstName: 'Шейн',
         img: "http://mobilelords.ru/upload/iblock/e6f/e6fb404e6de9baca4218d1a846ccd35c.png",
-        icon: "https://lh3.googleusercontent.com/proxy/_CXa65xxOjQDjZxnS4mas3NFsTslbE9rSO8Cc3TSHDyLzs9AVD-W0bRI30VT-8fJ5VJH_oTfuSd-k3eyKf4ljMKRpLarsJ7Ul9OSfbTcK1YCxyoSsyV6t-VCkV2I12qD2c0X0Q",
+        icon: "https://lh3.googleusercontent.com/proxy/519_PqYf2m1P2oISX79sLYnYdKoKW7f9v0CfpX17Q56ZkT3zI3Ls9WnjRnZz9D8kHV-j8S-h3uLEHyt2snPifkHrzfhkJZO918EJ889tEYYR3mS4aUXs9nfWcJ03toYcwh6OiA",
         heroDetail: 'Могучий владыка, завоевавший почти весь мир, Шейн на закате дней стал одержим идеей бессмертия. ' +
             'Наконец он собрал свою армию и отправился на поиски вечной жизни. Никто не знает, что встретилось им на ' +
             'пути. Но одно ясно точно - Шейн вернулся один, восставший из мертвых.'
@@ -177,7 +173,7 @@ export const Heroes = [
         name: 'Черная метка',
         firstName: 'Чадра',
         img: "http://mobilelords.ru/upload/iblock/35a/35a36b8536d8bee7ece29163ada9fe59.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/2/24/Black_Crow.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/601/window-height/600?cb=20200308042542",
+        icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV3aHgoc2yujYNlLLu0RHd78qPbomwPGZo1A&usqp=CAU",
         heroDetail: 'Чадра - знаменитая лучница. Ходят слухи, что она приносит другим несчастье, за что ее и прозвали ' +
             '"Черная метка". Как и прочие темные эльфы, Чадра ненавидит людей за их жестокость. Она принимает активное ' +
             'участие в их войнах, подливая масла в огонь междоусобиц. Ведь нет лучшей мести, чем помочь жалким людишкам ' +
