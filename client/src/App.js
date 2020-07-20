@@ -4,7 +4,7 @@ import {Login} from './components/Login/login'
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
 import {Menu} from './components/Menu/menu'
 import {Details} from './components/Details/details'
-import {Test} from './components/test'
+import {ConstructorField} from './components/ConstructionSite/ConstructorField/constructorField'
 
 const App = () => {
 
@@ -15,7 +15,7 @@ const App = () => {
                     <Route path={'/'} exact component={Login}/>
                     <Route path={'/menu'} component={Menu}/>
                     <Route path={'/details/:heroId'} component={Details}/>
-                    <Route path={'/test'} component={Test}/>
+                    <Route path={'/constructorField'} component={ConstructorField}/>
                 </Switch>
             </div>
         </BrowserRouter>

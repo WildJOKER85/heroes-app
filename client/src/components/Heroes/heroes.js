@@ -13,7 +13,7 @@ export const Heroes = [
     {
         name: 'Следопыт',
         firstName: 'Бум-гильда',
-        icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWho9SHk2gDTUTszkd07d14OrIQs8EJZEVCg&usqp=CAU",
+        icon: "https://lh3.googleusercontent.com/proxy/lu9BRr0dghCrRIplcjGbwvQnxilK8t9lo1Q8eBA2XP0RLPmdoDMQuwLi6cFgRSOhRD7nYwP6s_Autd3dpAbkUbttQVIeYIoWo1Mu22coPFVKEucUFMuTVsqihlEiZ823Qh6UuC3kAA",
         img: "http://mobilelords.ru/upload/iblock/54c/54c3b0ace6c917e0cca31bb19fba353a.png",
         heroDetail: 'Бум-гильда верит, что гномы не только сильные, но еще и ловкие. Она сама смастерила себе легкую броню и ' +
             'арбалет, чтобы сочетать навыки воина и охотника. За упорство и горячий нрав Бум-гильда получила произвише "Следопыт".'
@@ -50,7 +50,7 @@ export const Heroes = [
         name: 'Убийца демонов',
         firstName: 'Саван',
         img: "http://mobilelords.ru/upload/iblock/05f/05fc4e8e7cf7dae0363801c7a3a793bb.png",
-        icon: "https://lh3.googleusercontent.com/proxy/hlACjsYHUSq1jErQWO_VIlnQttMkTcKG_EfjjyEL-f7_QQFvCByeJC0Yq2e0z-adQCKjqwSxOe8ogcaEvacgVVhXYiTVJfW0qTXUrOp0jF8daxcUSUZWHPIq_vz2_shAodQ4eQ",
+        icon: "https://lh3.googleusercontent.com/proxy/HTfFHpokELJkrAPD__yn5-SvkWArbdIPxQqTUoLETavSbl6sQ0xg35hGo1FBi556goM1VNJYe3uy9xIcYPaafHEnLk06bl53jhh2lKw2rjsNTVL4Ausm4BVilUtv2v-qf3sUPQ",
         heroDetail: 'Саван - младший сын семейства Хейлор. Его жизнь круто изменилась, когда Саван влюбился в Мальтину. Эта ' +
             'эльфийка сумела разжечь доброту в суровом сердце воина. Но счасьте их длилось недолго: ненавистники Савана сожгли ' +
             'его Мальтину на костре. Снедаемый горем, Саван преклонил колени перед Вечностью, и взамен получил силы, чтобы' +

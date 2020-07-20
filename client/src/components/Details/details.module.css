@@ -36,12 +36,13 @@
 }
 
 .history {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     width: 290px;
     height: 350px;
-    background-color: #d9d9d9;
+    /*background-color: rgba(239, 237, 237, 0.87);*/
     opacity: 0.8;
     color: black;
+    font-weight: bold;
     font-style: oblique;
 }
 
