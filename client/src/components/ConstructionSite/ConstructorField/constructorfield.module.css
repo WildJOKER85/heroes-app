@@ -6,22 +6,22 @@
     /*background-color: blue;*/
 }
 
-.nameConstructor {
+.name {
     display: flex;
-    justify-content: start;
     flex-wrap: wrap;
-    width: 1600px;
+    width: 1500px;
     text-align: center;
     font-weight: bold;
-    font-size: 26px;
+    font-size: 28px;
+    margin: 0 0 0 120px;
 }
 
 .blocks {
     display: flex;
     height: 265px;
-    width: 290px;
+    width: 250px;
     background-color: yellow;
-    margin: 10px 0 0 40px;
+    margin: 24px 50px 10px 0;
     align-items: center;
     justify-content: start;
     flex-direction: column;
@@ -33,14 +33,19 @@
     /*height: 180px;*/
 }
 
-.nickName {
+.title {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
     text-align: start;
-    flex-direction: row-reverse;
     font-size: 14px;
     font-style: italic;
     margin-top: 10px;
+}
+
+.btn {
+    margin: 10px 0 0 20px;
+    position: fixed;
+
+
 }
 

@@ -29,7 +29,7 @@ export const Menu = () => {
                         <img src={Constructions.img} alt="" width={60} height={60}/>
                     </div>
                     <div className={s.name}>
-                        {Constructions.construction}
+                        {Constructions.name}
                     </div>
                 </NavLink>
             </div>
