@@ -5,6 +5,7 @@ import {BrowserRouter, Route, Switch} from 'react-router-dom'
 import {Menu} from './components/Menu/menu'
 import {Details} from './components/Details/details'
 import {ConstructorField} from './components/ConstructionSite/ConstructorField/constructorField'
+import {Test} from './test'
 
 const App = () => {
 
@@ -16,6 +17,7 @@ const App = () => {
                     <Route path={'/menu'} component={Menu}/>
                     <Route path={'/details/:heroId'} component={Details}/>
                     <Route path={'/constructorField'} component={ConstructorField}/>
+                    <Route path={'/test'} component={Test}/>
                 </Switch>
             </div>
         </BrowserRouter>

@@ -40,6 +40,7 @@ export const ConstructorField = () => {
                             </div>
                         </NavLink>
                     )}
+                    <NavLink to={'/test'}>Go To Test</NavLink>
                 </div>
             </div>
         </div>
