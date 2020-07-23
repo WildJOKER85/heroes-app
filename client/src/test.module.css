@@ -38,7 +38,7 @@
     cursor: pointer;
     opacity: 0.6;
     transition: 0.3s;
-    background-color: dodgerblue;
+    background-color: darkorange;
     color: white;
     text-align: center;
     border-radius: 10px;
@@ -64,4 +64,8 @@
 
 .twoColumn:hover {
     opacity: 1;
+}
+
+.pointer {
+    cursor: pointer;
 }

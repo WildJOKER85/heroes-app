@@ -9,10 +9,10 @@ export const Test = () => {
         <div className={s.test}>
             <div className={s.container}>
                 <div className={s.columns}>
-                    <div onClick={()=> setActive(true)} className={s.oneColumn + (active ? '' : active)}>
+                    <div onClick={()=> setActive(true)} className={active ? s.oneColumn: s.twoColumn}>
                         <h4>Новыки</h4>
                     </div>
-                    <div onClick={()=> setActive(false)} className={s.twoColumn + (active ? active: '')}>
+                    <div onClick={()=> setActive(false)} className={active ? s.twoColumn : s.oneColumn}>
                         <h4>Военный талант</h4>
                     </div>
                 </div>
