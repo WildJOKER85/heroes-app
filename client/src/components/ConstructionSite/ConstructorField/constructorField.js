@@ -28,7 +28,7 @@ export const ConstructorField = () => {
                         </div>
                     )}
                     {Constructions.total.links.map((item, index) =>
-                        <NavLink to={'#'}>
+                        <NavLink to={item.route} key={index}>
                             <div className={s.blocks}>
                                 {item.name}
                                 <div className={s.icon}>

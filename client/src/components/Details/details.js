@@ -7,7 +7,7 @@ import {FaReply} from 'react-icons/fa'
 export const Details = props => {
     const heroId = props.match.params.heroId - 1
     const heroHistory = Heroes[heroId]
-console.log(heroHistory)
+
     return (
         <div>
             <div className={s.container}></div>

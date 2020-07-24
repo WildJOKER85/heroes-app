@@ -9,15 +9,16 @@ export const Test = () => {
         <div className={s.test}>
             <div className={s.container}>
                 <div className={s.columns}>
-                    <div onClick={()=> setActive(true)} className={active ? s.oneColumn: s.twoColumn}>
+                    <div onClick={() => setActive(true)}
+                         className={s.pointer + ' ' + (active ? s.oneColumn : s.twoColumn)}>
                         <h4>Новыки</h4>
                     </div>
-                    <div onClick={()=> setActive(false)} className={active ? s.twoColumn : s.oneColumn}>
+                    <div onClick={() => setActive(false)} className={active ? s.twoColumn : s.oneColumn}>
                         <h4>Военный талант</h4>
                     </div>
                 </div>
                 <div className={s.block}>
-                    {active ? <div>1</div>: <div>2</div>}
+                    {active ? <div>1</div> : <div>2</div>}
                 </div>
             </div>
         </div>

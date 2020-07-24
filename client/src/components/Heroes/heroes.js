@@ -2,7 +2,7 @@ export const Heroes = [
     {
         name: 'Рыцарь Роз',
         firstName: 'Джоан',
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/5/54/Rose_Knight.png/revision/latest?cb=20200308171157",
+        icon: "/HeroesIcon/Rose_Knight.png",
         img: "http://mobilelords.ru/upload/iblock/4cd/4cd30157bf033468a6eb330d45f73763.png",
         heroDetail: 'Мать Джоан умерла, когда та была совсем малышкой, а ее отец был вечно занят своими делами. Джоан мечтала ' +
             'стать рыцарем, чтобы служить своему отцу. Однажды она убежала в лес, где встретила Спарки и Фелицию. В месте они ' +
@@ -13,7 +13,7 @@ export const Heroes = [
     {
         name: 'Следопыт',
         firstName: 'Бум-гильда',
-        icon: "https://lh3.googleusercontent.com/proxy/lu9BRr0dghCrRIplcjGbwvQnxilK8t9lo1Q8eBA2XP0RLPmdoDMQuwLi6cFgRSOhRD7nYwP6s_Autd3dpAbkUbttQVIeYIoWo1Mu22coPFVKEucUFMuTVsqihlEiZ823Qh6UuC3kAA",
+        icon: "/HeroesIcon/Bum_Gilda.png",
         img: "http://mobilelords.ru/upload/iblock/54c/54c3b0ace6c917e0cca31bb19fba353a.png",
         heroDetail: 'Бум-гильда верит, что гномы не только сильные, но еще и ловкие. Она сама смастерила себе легкую броню и ' +
             'арбалет, чтобы сочетать навыки воина и охотника. За упорство и горячий нрав Бум-гильда получила произвише "Следопыт".'
@@ -21,7 +21,7 @@ export const Heroes = [
     {
         name: 'Кузнец душ',
         firstName: 'Дрюмир',
-        icon: "https://www.lordsmobiletools.com/assets/soulforger.png",
+        icon: "/HeroesIcon/Dryumir.png",
         img: "http://mobilelords.ru/upload/iblock/189/189b31c405239ecae06d7e72cb3f646f.png",
         heroDetail: 'Дрюмиир обожает веселиться и мастерить из всякого ненужного хлама красивые артефакты. За это гномы прозвали' +
             'его "Кузнец душ". Несмотря на свои выдающиеся новыки, Дрюмир очень плохо оринтируется на местности. Он редко покидает ' +
@@ -32,7 +32,7 @@ export const Heroes = [
         name: 'Посланник морей',
         firstName: 'Озерыб',
         img: "http://mobilelords.ru/upload/iblock/e45/e4598dd57d77b7984686aff1cce3c8ee.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/1/1e/Sea_Squire.png/revision/latest?cb=20200308051128",
+        icon: "/HeroesIcon/Ozerib.png",
         heroDetail: 'С годами водный народ приспособился к жизни и в воде, и на суше. У них с рождения ненасытный аппетит, они ' +
             'едят все, в том числе и человечину. Озерыб, вождь водного народа, устремил свой взгляд на города людей; ему не' +
             'терпится отведать, каковы на вкус те, что прячутся за крепостными стенами.'
@@ -41,7 +41,7 @@ export const Heroes = [
         name: 'Элементалист',
         firstName: 'Расмус',
         img:"http://mobilelords.ru/upload/iblock/1d7/1d76c39309b483762d0bb4f1f1888bf6.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/a/a6/Elementalist.png/revision/latest/top-crop/width/360/height/450?cb=20200308165805",
+        icon: "/HeroesIcon/Elementalist.png",
         heroDetail: 'Расмус - страж элементалей, ему исполнилось уже 20 000 лет. Он испытывает огромный интерес к ествественному' +
             'миру и всю свою жизнь занимается изучением его парадоксов. Со временем баланс стихий нарушился, и это огорчило' +
             'Расмуса. Чтобы вернуть миру гармонию, он готов пожертвовать всем.'
@@ -50,7 +50,7 @@ export const Heroes = [
         name: 'Убийца демонов',
         firstName: 'Саван',
         img: "http://mobilelords.ru/upload/iblock/05f/05fc4e8e7cf7dae0363801c7a3a793bb.png",
-        icon: "https://lh3.googleusercontent.com/proxy/HTfFHpokELJkrAPD__yn5-SvkWArbdIPxQqTUoLETavSbl6sQ0xg35hGo1FBi556goM1VNJYe3uy9xIcYPaafHEnLk06bl53jhh2lKw2rjsNTVL4Ausm4BVilUtv2v-qf3sUPQ",
+        icon: "/HeroesIcon/Savan.png",
         heroDetail: 'Саван - младший сын семейства Хейлор. Его жизнь круто изменилась, когда Саван влюбился в Мальтину. Эта ' +
             'эльфийка сумела разжечь доброту в суровом сердце воина. Но счасьте их длилось недолго: ненавистники Савана сожгли ' +
             'его Мальтину на костре. Снедаемый горем, Саван преклонил колени перед Вечностью, и взамен получил силы, чтобы' +
@@ -60,7 +60,7 @@ export const Heroes = [
         name: 'Ночной сокол',
         firstName: 'Икар',
         img: "http://mobilelords.ru/upload/iblock/0a3/0a3c500e036aac3f0d406c1eed0fc0ff.png",
-        icon: "https://wegamers.176.com/GameIM/SNS/Image/20079940521509837675817946",
+        icon: "/HeroesIcon/Ikar.jpg",
         heroDetail: 'Люди-вороны - редкая раса, ее представители разбросаны по всему миру. Икар - человек-ворон, страстно' +
             'мечтавший встретить сородича. Но когда его стремление разрушило жизнь его подруги Корал, Икара охватило чувство вины' +
             'и отчаяния. С тех пор он парит над миром в поисках искупления.'
@@ -69,7 +69,7 @@ export const Heroes = [
         name: 'Гоблин-подрывник',
         firstName: 'Тинкус',
         img: "http://mobilelords.ru/upload/iblock/c57/c576f7aa23b313f3ddd7dce006b9803f.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/b/b1/Bombin%27_Goblin.png/revision/latest?cb=20200308045025",
+        icon: "/HeroesIcon/Bombin_Goblin.png",
         heroDetail: 'Гоблины обладают весьма сомнительным чувством юмора. Тинкус просто обожает взрывать. Этого озорного' +
             'гоблина лучше обходить стороной, особенно когда он в хорошем настроении.'
     },
@@ -77,7 +77,7 @@ export const Heroes = [
         name: 'Пройдоха',
         firstName: 'Гнилоуст',
         img: "http://mobilelords.ru/upload/iblock/5e8/5e8c6611b2ff02dcc6c6486af770c679.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/b/bd/Trickster.png/revision/latest/top-crop/width/360/height/450?cb=20200308051433",
+        icon: "/HeroesIcon/Trickster.png",
         heroDetail: 'Почти все свое время Гнилоуст проводит в трактире, завлекая простаков своими баснями и выманивая у них' +
             'деньги. За это его и призвали "Пройдоха".'
     },
@@ -85,7 +85,7 @@ export const Heroes = [
         name: 'Алая Молния',
         firstName: 'Грета',
         img: "http://mobilelords.ru/upload/iblock/f82/f8227a7b49c7f5f73c58a977d1180977.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/c/c1/Scarlet_Bolt.png/revision/latest?cb=20200308044835",
+        icon: "/HeroesIcon/Scarlet_Bolt.png",
         heroDetail: 'Грета выросла в джунглях, где действует один закон: приспосабливайся или умри. Грета научилась всегда быть' +
             'первой - важный новык для того, кого смерть поджидает на каждом шагу. Ее движения отточены, чтобы убивать врагов' +
             'быстро, эффективно и без всякой жалости. Грета любит слизывать кровь со своего клинка, и этим приводит в ужасе' +
@@ -95,7 +95,7 @@ export const Heroes = [
         name: 'Дитя света',
         firstName: 'Спарки',
         img: "http://mobilelords.ru/upload/iblock/ab0/ab0a1c279e770e555393501ea010529f.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/e/e2/Child_of_Light.png/revision/latest?cb=20200308165745",
+        icon: "/HeroesIcon/Child_of_Light.png",
         heroDetail: 'Кролики - лесные обитатели, обладающие необычайной силой и острым обоняием. Они поклоняются Аполлону ' +
             ', богу солнца, поэтому их детенышей называют "детьями света". Мощное землетресение сотрясло кроличий край, ' +
             'едва не погубив под обвалом всех его обитателей. Но в тот миг благословение Аполлона снизошло на Спарки. ' +
@@ -104,7 +104,7 @@ export const Heroes = [
     {
         name: 'Лучница смерти',
         firstName: 'Катрисс',
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/0/0c/Death_Archer.png/revision/latest?cb=20200308043403",
+        icon: "/HeroesIcon/Death_Archer.png",
         img: "http://mobilelords.ru/upload/iblock/f6c/f6c4a2e401447f7b23a824f86a8d298d.png",
         heroDetail: 'Своим прекрасным невинным взором Катрисс пленит своих жертв и заманивает их, чтобы убить. ' +
             'Со своими жертвами она забавляется, словно с игрушками, наслаждаясь их муками. Главная цель Катрисс - ' +
@@ -114,7 +114,7 @@ export const Heroes = [
         name: 'Тень',
         firstName: 'Блинк',
         img: "http://mobilelords.ru/upload/iblock/f14/f141f6a7c7628c257340721759ea88c3.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/d/dc/Shade.png/revision/latest/top-crop/width/360/height/450?cb=20200308171214",
+        icon: "/HeroesIcon/Shade.png",
         heroDetail: 'Во тьме ночной Тень проскользнет незаметно мимо любого стража. Прокравшись в комнату жертвы, ' +
             'полоснет ей по горлу кинжалом и через мгновение снова растворится в ночи. Блинк - умелый и безжалостный ' +
             'убийца, не проваливший ни одной миссии. Никакая сила не способна помешать Блинку совершить намеченное.'
@@ -123,7 +123,7 @@ export const Heroes = [
         name: 'Рыцарь смерти',
         firstName: 'Шейн',
         img: "http://mobilelords.ru/upload/iblock/e6f/e6fb404e6de9baca4218d1a846ccd35c.png",
-        icon: "https://lh3.googleusercontent.com/proxy/519_PqYf2m1P2oISX79sLYnYdKoKW7f9v0CfpX17Q56ZkT3zI3Ls9WnjRnZz9D8kHV-j8S-h3uLEHyt2snPifkHrzfhkJZO918EJ889tEYYR3mS4aUXs9nfWcJ03toYcwh6OiA",
+        icon: "/HeroesIcon/Death_Knight.png",
         heroDetail: 'Могучий владыка, завоевавший почти весь мир, Шейн на закате дней стал одержим идеей бессмертия. ' +
             'Наконец он собрал свою армию и отправился на поиски вечной жизни. Никто не знает, что встретилось им на ' +
             'пути. Но одно ясно точно - Шейн вернулся один, восставший из мертвых.'
@@ -132,7 +132,7 @@ export const Heroes = [
         name: 'Зажигалка',
         firstName: 'Моника',
         img: "http://mobilelords.ru/upload/iblock/a3a/a3aeb3d721ea5ed0ca1acfee8dd617ed.png",
-        icon: "https://i.playground.ru/i/pix/2962060/image.jpg",
+        icon: "/HeroesIcon/Lighter.jpg",
         heroDetail: 'Величайший маг огня в мире, Моника всегда в поисках приключений. Нет такого пламени, которое ей ' +
             'было бы не под силу обуздать. Однако по натуре своей Моника холодна и расчетлива. Ничто не остановит ' +
             'ее на пути к цели. Некоторые полагают, что Моника вступила в войну в поисках достойного соперника. Другие ' +
@@ -142,7 +142,7 @@ export const Heroes = [
         name: 'Примадонна',
         firstName: 'Фелиция',
         img: "http://mobilelords.ru/upload/iblock/469/4695461e3600361153a0f93d1d550784.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/f/fa/Prima_Donna.png/revision/latest/top-crop/width/360/height/450?cb=20200308050501",
+        icon: "/HeroesIcon/Prima_Donna.png",
         heroDetail: 'Феи - миниатюрные крылатые существа с волшебными голосами. Многие говорят, что услышав пение феи, ' +
             'можно узреть настоящее чудо. Легенды также гласят, что крылья фей открывают портал в мир грез. ' +
             'Теоретически, в этом мире можно жить вечно. Даже в пекле нескончаемой войны Фелиция ни секунды не ' +
@@ -152,7 +152,7 @@ export const Heroes = [
         name: 'Снежная королева',
         firstName: 'Алиса',
         img: "http://mobilelords.ru/upload/iblock/b17/b1783b9da6e7fceb042e26eb307f4126.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/7/7a/Snow_Queen.png/revision/latest?cb=20200308171234",
+        icon: "/HeroesIcon/Snow_Queen.png",
         heroDetail: 'Снежные эльфы всегда избегали контактов с людьми. Они считали, что общение с низшими формами ' +
             'жизни отрицательно скажется на их собственном развитии. Но Алиса была слишком любопытной. Она захотела ' +
             'понять человеческую натуру. В итоге она совершила немыслимое - покинула свой народ и ушла в мир людей. ' +
@@ -163,7 +163,7 @@ export const Heroes = [
         name: 'Мудрец штормов',
         firstName: 'Андерсон',
         img: "http://mobilelords.ru/upload/iblock/a69/a69dfc09d748f8e43c6af93b0c0c0d3b.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/3/31/Sage_of_Storms.png/revision/latest/scale-to-width-down/350?cb=20200308171207",
+        icon: "/HeroesIcon/Sage_of_Storms.png",
         heroDetail: 'Андерсон - тихий и неприметный. Но под этой хрупкой оболочкой скрывается бессмертный волшебник, ' +
             'который не раз защищал планету от угроз из иных измерений. В юности запретная магия Андерсона спасла мир. ' +
             'К сожелению, за это ему пришлось заплатить особую цену: теперь на Андерсоне лежит проклятие бессмертия. ' +
@@ -173,7 +173,7 @@ export const Heroes = [
         name: 'Черная метка',
         firstName: 'Чадра',
         img: "http://mobilelords.ru/upload/iblock/35a/35a36b8536d8bee7ece29163ada9fe59.png",
-        icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV3aHgoc2yujYNlLLu0RHd78qPbomwPGZo1A&usqp=CAU",
+        icon: "/HeroesIcon/Black_Label.jpg",
         heroDetail: 'Чадра - знаменитая лучница. Ходят слухи, что она приносит другим несчастье, за что ее и прозвали ' +
             '"Черная метка". Как и прочие темные эльфы, Чадра ненавидит людей за их жестокость. Она принимает активное ' +
             'участие в их войнах, подливая масла в огонь междоусобиц. Ведь нет лучшей мести, чем помочь жалким людишкам ' +
@@ -183,7 +183,7 @@ export const Heroes = [
         name: 'Хранитель клятвы',
         firstName: 'Уэсли',
         img: "http://mobilelords.ru/upload/iblock/c77/c77678576131fcd035f00d479a732036.png",
-        icon: "https://wegamers.176.com/GameIM/SNS/Image/20126199661539847038185657",
+        icon: "/HeroesIcon/Uesli.jpg",
         heroDetail: 'Уэсли - последний из почетного клана рыцарей. Когда разгорелась гражданская война, вся его семья ' +
             'отправилась воевать, и юный Уэсли остался предоставлен самому себе. Как бы тяжело ему ни было, он никогда ' +
             'не забывал о своих корнях и вырос человеком чести. Уэсли посвятил себе служению своему лорду. Его ' +
@@ -193,7 +193,7 @@ export const Heroes = [
         name: 'Стражник',
         firstName: 'Древень',
         img: "http://mobilelords.ru/upload/iblock/530/5309b86b326014ae44ba596ee82a3592.png",
-        icon: "https://vignette.wikia.nocookie.net/lordsmobile/images/9/98/Watcher.png/revision/latest?cb=20200308171321",
+        icon: "/HeroesIcon/Watcher.png",
         heroDetail: 'Военные алхимики отравили лес и живущих в нем энтов. Услышав стоны природы, Древень пробудился ' +
             'ото сна с единственной целью: защищать природу от тех, кто ее оскверняет.'
     }
