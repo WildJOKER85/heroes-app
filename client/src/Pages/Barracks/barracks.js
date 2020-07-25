@@ -1,5 +1,5 @@
 import React from 'react'
-import s from '../Barracks/barracks.module.css'
+import s from './barracks.module.css'
 
 export const Barracks = () => {
     return (

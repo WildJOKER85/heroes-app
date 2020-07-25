@@ -1,13 +1,13 @@
 import React from 'react'
 import './App.css'
-import {Login} from './components/Login/login'
+import {Login} from './Pages/Login/login'
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
-import {Menu} from './components/Menu/menu'
-import {Details} from './components/Details/details'
-import {ConstructorField} from './components/ConstructionSite/ConstructorField/constructorField'
+import {Menu} from './Pages/Menu/menu'
+import {HeroDetails} from './Pages/HeroDetails/HeroDetails'
+import {ConstructorField} from './Pages/ConstructorField/constructorField'
 import {Test} from './test'
-import {Barracks} from './components/ConstructionSite/Barracks/barracks'
-import {Hospital} from './components/ConstructionSite/Hospital/hospital'
+import {Barracks} from './Pages/Barracks/barracks'
+import {Hospital} from './Pages/Hospital/hospital'
 
 const App = () => {
 
@@ -17,7 +17,7 @@ const App = () => {
                 <Switch>
                     <Route path={'/'} exact component={Login}/>
                     <Route path={'/menu'} component={Menu}/>
-                    <Route path={'/details/:heroId'} component={Details}/>
+                    <Route path={'/details/:heroId'} component={HeroDetails}/>
                     <Route path={'/constructorField'} component={ConstructorField}/>
                     <Route path={'/barracks'} component={Barracks}/>
                     <Route path={'/barracks'} component={Barracks}/>

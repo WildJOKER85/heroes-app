@@ -1,0 +1,25 @@
+.icon {
+    display: flex;
+    /*width: 200px;*/
+    /*height: 180px;*/
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.blocks {
+    display: flex;
+    height: 265px;
+    width: 250px;
+    background-color: yellow;
+    margin: 24px 50px 10px 0;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+}

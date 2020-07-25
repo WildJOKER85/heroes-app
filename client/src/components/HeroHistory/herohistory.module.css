@@ -1,0 +1,31 @@
+.history {
+    width: 290px;
+    height: 350px;
+    opacity: 0.8;
+    color: black;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.heroName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 50px 300px 0;
+    font-weight: bold;
+    font-size: 45px;
+    font-style: italic;
+    color: darkblue;
+}
+
+.icon {
+    display: flex;
+    flex-direction: row;
+}
+
+.totalHero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

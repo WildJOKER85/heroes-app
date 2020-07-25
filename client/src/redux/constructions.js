@@ -1,4 +1,4 @@
-export const Constructions = {
+export const constructions = {
     name: 'Строительства',
     img: 'https://vignette.wikia.nocookie.net/the-long-dark/images/6/65/Ico_GearItem_Hummer.png/revision/latest?cb=20170802133557&path-prefix=ru',
     total: {

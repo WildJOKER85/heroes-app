@@ -1,5 +1,5 @@
 import React from 'react'
-import s from '../Hospital/hospital.module.css'
+import s from './hospital.module.css'
 
 export const Hospital = () => {
     return (
