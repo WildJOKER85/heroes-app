@@ -13,8 +13,18 @@ export const ConstructorField = () => {
             <Buttons route={'/menu'}/>
             <div className={s.constructor}>
                 <div className={s.name}>
-                    {constructions.total.info.map((item, index) => <ConstructorInfoItem item={item} key={index}/>)}
-                    {constructions.total.links.map((item, index) => <ConstructorLinkItem item={item} key={index}/>)}
+                    {constructions.total.info.map((item, index) =>
+                        <ConstructorInfoItem
+                            item={item}
+                            key={index}
+                        />
+                    )}
+                    {constructions.total.links.map((item, index) =>
+                        <ConstructorLinkItem
+                            item={item}
+                            key={index}
+                        />
+                    )}
                     <NavLink to={'/test'}>Go To Test</NavLink>
                 </div>
             </div>

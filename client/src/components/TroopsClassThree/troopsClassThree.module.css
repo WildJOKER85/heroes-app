@@ -1,0 +1,14 @@
+.blocks {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 21px;
+    color: black;
+}

@@ -1,6 +1,5 @@
 import React from 'react'
-import s from './heroDetails.module.css'
-import {HeroHistory} from '../../components/HeroHistory/heroHistory'
+import {HeroHistory} from '../../components/HeroHistory/HeroHistory'
 import {heroes} from '../../redux/heroes'
 import {Buttons} from '../../components/Buttons/Buttons'
 
@@ -10,11 +9,8 @@ export const HeroDetails = props => {
 
     return (
         <div>
-            <div className={s.container}></div>
-            <div className={s.details}>
-                <Buttons route={'/menu'}/>
-                <HeroHistory heroHistory={heroHistory}/>
-            </div>
+            <Buttons route={'/menu'}/>
+            <HeroHistory heroHistory={heroHistory}/>
         </div>
     )
 }

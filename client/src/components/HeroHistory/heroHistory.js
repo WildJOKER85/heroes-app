@@ -6,6 +6,7 @@ export const HeroHistory = props => {
 
     return (
         <div>
+            <div className={s.container}></div>
             <div className={s.totalHero}>
                 <div className={s.icon}>
                     <img src={heroHistory.icon} alt="" width={320} height={350}/>

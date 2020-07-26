@@ -1,7 +1,7 @@
 import React from 'react'
 import s from './menu.module.css'
 import {HeroMenuItem} from '../../components/HeroMenuItem/HeroMenuItem'
-import {ConstructionSite} from '../../components/ConstructionSite/constructionSite'
+import {ConstructionSite} from '../../components/ConstructionSite/ConstructionSite'
 import {heroes} from '../../redux/heroes'
 
 export const Menu = () => {
