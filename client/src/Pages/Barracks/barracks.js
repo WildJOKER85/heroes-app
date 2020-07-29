@@ -11,32 +11,63 @@ export const Barracks = () => {
 
     return (
         <div className={s.barracks}>
-            <Buttons route={'/constructorField'}/>
-            <div className={s.content}>
-                {troops.classes.one.map((item, index) =>
-                    <TroopsClassOne
-                        item={item}
-                        key={index}
-                    />
-                )}
-                {troops.classes.two.map((item, index) =>
-                    <TroopsClassTwo
-                        item={item}
-                        key={index}
-                    />
-                )}
-                {troops.classes.three.map((item, index) =>
-                    <TroopsClassThree
-                        item={item}
-                        key={index}
-                    />
-                )}
-                {troops.classes.four.map((item, index) =>
-                    <TroopsClassFour
-                        item={item}
-                        key={index}
-                    />
-                )}
+            <div>
+                <Buttons route={'/constructorField'}/>
+            </div>
+            <div className={s.blocks}>
+                <div className={s.classOne}>
+                    <div>
+                        <h4>Войска 1 класса</h4>
+                    </div>
+                    <div className={s.item}>
+                        {troops.classes.one.map((item, index) =>
+                            <TroopsClassOne
+                                item={item}
+                                key={index}
+                            />
+                        )}
+                    </div>
+
+                </div>
+                <div className={s.classOne}>
+                    <div>
+                        <h4>Войска 2 класса</h4>
+                    </div>
+                    <div className={s.item}>
+                        {troops.classes.two.map((item, index) =>
+                            <TroopsClassTwo
+                                item={item}
+                                key={index}
+                            />
+                        )}
+                    </div>
+                </div>
+                <div className={s.classOne}>
+                    <div>
+                        <h4>Войска 3 класса</h4>
+                    </div>
+                    <div className={s.item}>
+                        {troops.classes.three.map((item, index) =>
+                            <TroopsClassThree
+                                item={item}
+                                key={index}
+                            />
+                        )}
+                    </div>
+                </div>
+                <div className={s.classOne}>
+                    <div>
+                        <h4>Войска 4 класса</h4>
+                    </div>
+                    <div className={s.item}>
+                        {troops.classes.four.map((item, index) =>
+                            <TroopsClassFour
+                                item={item}
+                                key={index}
+                            />
+                        )}
+                    </div>
+                </div>
             </div>
         </div>
     )

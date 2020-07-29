@@ -6,7 +6,12 @@ export const TroopsClassOne = ({item}) => {
 
     return (
         <div>
+            {/*<div className={s.classNumber}>*/}
+            {/*    {item.classNumber}*/}
+            {/*</div>*/}
             <div className={s.blocks}>
+
+
                 <NavLink to={'#'}>
                     <div className={s.name}>
                         {item.name}

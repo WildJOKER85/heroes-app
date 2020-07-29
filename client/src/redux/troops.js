@@ -2,7 +2,7 @@ export const troops = {
     classes: {
         one:
             [
-                {
+                {   classNumber: 'Войска 1 класса',
                     name: 'Пехотинец',
                     img: '/TroopsImg/mechnik_1_class.jpg',
                     type: 'Пехота'
@@ -26,7 +26,7 @@ export const troops = {
             ],
         two:
             [
-                {
+                {   classNumber: 'Войска 2 класса',
                     name: 'Гладиатор',
                     img: '/TroopsImg/mechnik_1_class.jpg',
                     type: 'Пехота'
@@ -50,6 +50,7 @@ export const troops = {
         three:
             [
                 {
+                    classNumber: 'Войска 3 класса',
                     name: 'Королевский страж',
                     img: '/TroopsImg/mechnik_1_class.jpg',
                     type: 'Пехота'
@@ -73,6 +74,7 @@ export const troops = {
         four:
             [
                 {
+                    classNumber: 'Войска 4 класса',
                     name: 'Героический боец',
                     img: '/TroopsImg/mechnik_1_class.jpg',
                     type: 'Пехота'
